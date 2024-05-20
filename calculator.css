@@ -1,0 +1,33 @@
+#cal{
+border :1px ;
+border :solid;
+border-color:rgba(18, 18, 18, 0.058);
+border-radius:3px;
+width:190px;
+
+}
+#display{
+
+  margin:10px;
+  width:85%;
+  height:35px;
+}
+
+.inputcontainer{
+ display:flex;
+ justify-content:center; 
+ flex-wrap: wrap;
+ width:150px;
+ margin-left:15px;
+ margin-right:15px;
+}
+.button{
+  margin:3px;
+  width:35px;
+  height:35px;
+  background-color: rgba(231, 209, 209, 0.552);
+  border-radius:2px;
+  border-width:1px;
+
+
+}
